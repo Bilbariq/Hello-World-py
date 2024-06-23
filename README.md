@@ -1,2 +1,2 @@
-# Hello-World-C
-"as a symbol that I am learning the C programming language"
+# Hello-World-py
+"as a symbol that I am learning the Python programming language"
